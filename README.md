@@ -30,3 +30,29 @@ This Python script creates a basic calculator using the Tkinter library. The cal
 ### Features
 - User Interface: The calculator provides a simple user interface with buttons for digits (0-9), arithmetic operations (+, -, *, /), parentheses, and an equal (=) sign.
 - Calculation: Users can input mathematical expressions using the provided buttons, and the calculator evaluates and displays the result.
+
+## Notepad Application
+A simple Notepad application built using Python and Tkinter. This application allows you to create, open, edit, and save text files. It also includes basic text editing features such as cut, copy, paste, and find text.
+
+### Features
+- Create new text files.
+- Open existing text files.
+- Save text files.
+- Basic text editing functions: cut, copy, paste, and clear.
+- Find text within the document.
+- Display information about the application.
+
+### Prerequisites
+To run this project, you need to have Python installed on your machine. Additionally, the tkinter module, which is included in the standard Python distribution, is required.
+
+### Usage
+- New File: Create a new text file.
+- Open File: Open an existing text file.
+- Save File: Save the current text file.
+- Exit: Exit the application.
+- Cut: Cut the selected text.
+- Copy: Copy the selected text.
+- Paste: Paste the copied/cut text.
+- Clear: Clear the entire text.
+- Find: Find specific text in the document.
+- About: Display information about the application.
